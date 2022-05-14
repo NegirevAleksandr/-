@@ -16,6 +16,10 @@ main {
 background-color: lightblue;
 }
 
+main a {
+  color: darkorchid;
+}
+
 footer {
   background-color: #545454;
 }
@@ -26,13 +30,13 @@ footer a {
 }
 
 .hi {
-   color: #ff5C00;
+   color: #58a014;
    text-align: center;
-   border: 3px solid rgb(0,100,3);
+   border: 3px solid rgb(0, 255, 98);
    border-radius: 20px;
    background-color: rgb(0, 255, 98);
    width: 170px;
-   height: 35px;
+   height: 40px;
    display: inline-block;
    margin-top: 25px;
    margin-bottom: 5px;
@@ -41,7 +45,7 @@ footer a {
 .magic-1, .magic-2 {
   opacity: 0;
   display: inline-block;
-  color: #61cdee;
+  color: #4fa3bd;
   margin: 0 15px 0 15px;
 }
 
